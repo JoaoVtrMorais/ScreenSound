@@ -1,5 +1,7 @@
 # ScreenSound
 
+<img align="center" width="100%)" src="Assets/ScreenSound.png"></a>
+
 Repositório criado para fins educacionais e para expôr o projeto feito durante o curso **C#: criando sua primeira aplicação** da [Alura](https://www.alura.com.br).
 
 ## Objetivo
